@@ -1,2 +1,2 @@
 # router-config
-collection of scripts and config for routing
+collection of scripts and configs for running shadowsocks on Openwrt
