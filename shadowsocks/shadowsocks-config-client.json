@@ -2,9 +2,8 @@
     "server":"*",
     "server_port":8530,
     "local_address":"0.0.0.0",
-    "local_port":8024,
+    "local_port":1080,
     "password":"*",
     "timeout":60,
-    "method":"aes-256-cfb",
-    "auth":true
+    "method":"chacha20-ietf",
 }

@@ -4,7 +4,5 @@
     "local_port":1080,
     "password":"*",
     "timeout":600,
-    "method":"aes-256-cfb",
-    "fast_open":"true",
-    "auth":"true"
+    "method":"chacha20-ietf",
 }
